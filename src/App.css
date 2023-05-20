@@ -6,7 +6,7 @@
 
 html,
 body {
-    background-color: #1B1B32;
+    background-color: #391950;
 }
 
 .App {
@@ -38,5 +38,11 @@ body {
 
 .freecodecamp-logo {
     height: 50px;
+}
+
+.dev_Persona {
+    padding-top: 15px;
+    color: rgb(255, 246, 5);
+    font-family: Lato, sans-serif;
 }
 
